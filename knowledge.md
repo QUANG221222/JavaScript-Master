@@ -33,3 +33,7 @@ _Reference (tham chiếu)_: Object, Array, Functions. không có kích thước 
 _Kiểu dữ liệu Primitive và Reference là gì?_:
 _Primitive_ là kiểu mà khi gán giá trị cho 1 biến thì sẽ _không thể thay đổi_ , khi _thay đổi giá trị_ cho biến thì _1 bản sao độc lập_ của giá trị đó sẽ được tạo ra. Các giá trị nguyên thủy được lưu trữ trực tiếp trong _ngăn xếp (Stack)_.
 _Reference_ là kiểu mà các giá trị tham chiếu _có thể được thay đổi_ sau khi chúng được tạo ra. Các giá trị tham chiếu không được lưu trữ trực tiếp trong ngăn xếp (Stack) mà sẽ tham chiếu đến địa chỉ của đối tượng trong _Heap Memory_. Khi gán 1 đối tượng A cho B, thì cả A và B sẽ tham chiếu đến cùng một đối tượng, chứ không tạo ra bản sao độc lập riêng biệt.
+
+<!-- 5. Toán tử -->
+
+_Có 8 toán tử phổ biến:_: số học (_arithmetic_), logic (_logical_), so sánh (_comparison_), gán (_assignment_), toán tử chuỗi (_string_), toán tử logic (_conditional_), toán tử kiểu dữ liệu (_type_), toán tử dùng để thực hiện các phép toán bit trong hệ nhịn phân (_bitwise_)
