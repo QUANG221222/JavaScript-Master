@@ -37,3 +37,14 @@ _Reference_ là kiểu mà các giá trị tham chiếu _có thể được thay
 <!-- 5. Toán tử -->
 
 _Có 8 toán tử phổ biến:_: số học (_arithmetic_), logic (_logical_), so sánh (_comparison_), gán (_assignment_), toán tử chuỗi (_string_), toán tử logic (_conditional_), toán tử kiểu dữ liệu (_type_), toán tử dùng để thực hiện các phép toán bit trong hệ nhịn phân (_bitwise_)
+
+<!-- 6. if, else, switch / case-->
+
+`Xem chi tiết tại lesson-06`
+
+<!-- 7. Các loại vòng lặp: For, While, Do-While, For In, For-Of  -->
+
+`Xem chi tiết tại lesson-07`
+_`for of` khác gì `for in`?_: _`for of`_ thường được sử dụng Dùng để lập qua các giá trị của 1 iterable object (những đối tượng có thể lặp), phổ biến như Array, String,... _`for in`_ lặp qua các thuộc tính của môt đối tượng.
+_`for of`_ chỉ lặp qua **`iterable object(những đối tượng có thể lặp)` còn không lặp qua được **`json object`\_\_
+_Khi nào dùng for khi nào dùng while?_: dùng for cho những bài toán đơn giản biết trước số lần lặp, dùng while cho những bài toán phức tạp liên quan đến mảng như _check điều kiện dừng nếu người dùng nhập vào 1 ký tự nào đó_ không biết trước số lần lặp, mà vòng lặp _for_ không thể làm được vì nó bắt buộc phải có 3 tham số truyền vào.
