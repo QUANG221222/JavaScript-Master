@@ -53,3 +53,15 @@ _Khi nào dùng for khi nào dùng while?_: dùng for cho những bài toán đ�
 
 _Có 6 loại hàm:_ hàm khởi tạo (_function declaration_), hàm biểu thức (_function expression_), hàm mũi tên (_arrow function_), hàm phương thức (_method function_), hàm ẩn danh (_anonymous function_), hàm tạo (_constructor function_)
 **XEM CHI TIẾT TẠI lesson-08**
+
+<!-- lesson 9 - Object -->
+
+_Trong JS, đối tượng (object)_ là một cấu trúc dữ liệu linh hoạt và mạnh mẽ, cho phép lưu trữ và quản lý các dữ liệu phức tạp. Đối tượng bao gồm các cặp key-value (khóa và giá trị). `Mỗi khóa là một chuỗi (String) và giá trị có thể là bất kỳ loại dữ liệu nào, bao gồm các đối tượng khác (nested object)`.
+
+`2 Cách tạo Object với cú pháp object literal và từ khóa new object`
+
+<!-- 10. Thao tác với Array - Mảng trong JavaScript  -->
+
+_Trong JavaScript, 'mảng' (array)_ là một kiểu dữ liệu dùng để lưu trữ danh sách các giá trị.
+\_Các giá trị trong mảng có thể là bất kỳ dữ liệu nào, `number, string, object, thậm chí là mảng khác.`
+\_Mảng trong JS có các chỉ số - Index bắt đầu từ 0, nghĩa là phần tử đầu tiên của mảng có index là 0, phần tử thứ hai có index là 1, phần tử thứ ba có index là 2 v.v.
