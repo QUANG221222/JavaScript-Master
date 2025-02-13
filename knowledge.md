@@ -65,3 +65,10 @@ _Trong JS, đối tượng (object)_ là một cấu trúc dữ liệu linh ho�
 _Trong JavaScript, 'mảng' (array)_ là một kiểu dữ liệu dùng để lưu trữ danh sách các giá trị.
 \_Các giá trị trong mảng có thể là bất kỳ dữ liệu nào, `number, string, object, thậm chí là mảng khác.`
 \_Mảng trong JS có các chỉ số - Index bắt đầu từ 0, nghĩa là phần tử đầu tiên của mảng có index là 0, phần tử thứ hai có index là 1, phần tử thứ ba có index là 2 v.v.
+
+<!-- 11 - 12. Array: 17 phương thức bạn cần phải biết khi đi làm (p1 - p2) | JavaScript Master A-Z -->
+
+\_Các phương thức dùng phổ biến đối với sử lý mảng: `push(), pop(), shift(), unshift(), map(), filter(), find(), reduce(), some(), concat(), slice(), splice(), every(), findIndex(), toString(), join()`
+****Xem chi tiết tại 2 folder lesson 11, 12****
+
+`Sự khác nhau giữa join() và toString() ?`: cả hai đều nối mảng thành _chuỗi String_. Tuy nhiên khác với _toString()_, _join()_ có thể chỉ định dấu phân cách của mảng.

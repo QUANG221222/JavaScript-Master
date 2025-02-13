@@ -1,6 +1,7 @@
 /**
  * Có khá nhiều Methods - Phương thức khi xử lý dữ liệu mảng trong JS.
  * Dưới đây chúng ta sẽ tập trung vào những phương thức quan trọng và được dùng nhiều trong thực tế.
+ * Phần 1: push(), pop(), shift(), unshift(), forEach(), map(), filter(), find(), reduce(), some()
  */
 // Tạo một Array chứa các số từ 1-5
 let numbers = [1, 2, 3, 4, 5]
