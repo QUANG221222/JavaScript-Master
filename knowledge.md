@@ -68,7 +68,11 @@ _Trong JavaScript, 'mảng' (array)_ là một kiểu dữ liệu dùng để l�
 
 <!-- 11 - 12. Array: 17 phương thức bạn cần phải biết khi đi làm (p1 - p2) | JavaScript Master A-Z -->
 
-\_Các phương thức dùng phổ biến đối với sử lý mảng: `push(), pop(), shift(), unshift(), map(), filter(), find(), reduce(), some(), concat(), slice(), splice(), every(), findIndex(), toString(), join()`
-****Xem chi tiết tại 2 folder lesson 11, 12****
+\_Các phương thức dùng phổ biến đối với xử lý mảng: `push(), pop(), shift(), unshift(), map(), filter(), find(), reduce(), some(), concat(), slice(), splice(), every(), findIndex(), toString(), join()` \***\*Xem chi tiết tại 2 folder lesson 11, 12\*\***
 
 `Sự khác nhau giữa join() và toString() ?`: cả hai đều nối mảng thành _chuỗi String_. Tuy nhiên khác với _toString()_, _join()_ có thể chỉ định dấu phân cách của mảng.
+
+<!-- 13 - 14. String: 15 phương thức bạn cần phải biết khi đi làm (p1 - p2) | JavaScript Master A-Z -->
+
+\-Các phương thức dùng phổ biến đối với xử lý chuỗi: `charAt(), concat(), includes(), indexOf(), slice(), split(), substring(), toLowerCase(), toUpperCase(), trim(), replace(), match(regex), search(regex), startWith(), endWith()` \***\*Xem chi tiết tại 2 folder lesson 13, 14\*\***
+_regex expression_ là biểu thức chính quy (regex) được sử dụng để xử lý chuỗi.
