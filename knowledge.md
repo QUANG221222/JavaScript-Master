@@ -76,3 +76,7 @@ _Trong JavaScript, 'mảng' (array)_ là một kiểu dữ liệu dùng để l�
 
 \-Các phương thức dùng phổ biến đối với xử lý chuỗi: `charAt(), concat(), includes(), indexOf(), slice(), split(), substring(), toLowerCase(), toUpperCase(), trim(), replace(), match(regex), search(regex), startWith(), endWith()` \***\*Xem chi tiết tại 2 folder lesson 13, 14\*\***
 _regex expression_ là biểu thức chính quy (regex) được sử dụng để xử lý chuỗi.
+
+<!-- 15. 16. Number: 15 phương thức bạn cần phải biết khi đi làm (p1, p2) -->
+
+\-Các phương thức dùng phổ biến đối với xử lý Number (số): `toFixed(), toPrecision(), toString(), isFinite(), Number.isInteger(), Number.isSafeInteger(), Number.NaN, isNaN(), parseFloat(), parseInt(), Number.prototype.value(), isFinite(), Number.MAX_VALUE, Number.MIN_VALUE, Number.POSITIVE_INFINITY, Number.NEGATIVE_INFINITY`
